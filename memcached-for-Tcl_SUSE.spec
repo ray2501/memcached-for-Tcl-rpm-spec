@@ -6,7 +6,7 @@ Name:          memcached-for-Tcl
 Summary:       Memcached client library for Tcl based applications
 Version:       1.2.1
 Release:       2
-License:       BSD-3 License
+License:       BSD-3-Clause
 Group:         Development/Libraries/Tcl
 Source:        https://github.com/bovine/memcached-for-Tcl/memcached-for-Tcl-1.2.1.tar.gz
 URL:           https://github.com/bovine/memcached-for-Tcl
